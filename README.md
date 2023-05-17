@@ -131,9 +131,7 @@ Execute the program
 
 ![server_output_timetable](https://github.com/KothaiKumar/timetable/assets/121215739/482e6053-e5c4-42ec-8982-d8be81d66222)
 
-##client output:
 
-![timetable](https://github.com/KothaiKumar/timetable/assets/121215739/4812bcab-bb81-40c9-94e8-e7d448d05a93)
 
 ## Result:
 Hence, a website is developed to display the timetable .
