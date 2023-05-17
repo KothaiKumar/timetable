@@ -132,7 +132,6 @@ Execute the program
 ![server_output_timetable](https://github.com/KothaiKumar/timetable/assets/121215739/482e6053-e5c4-42ec-8982-d8be81d66222)
 
 ## Client output:
-![timetable2](https://github.com/KothaiKumar/timetable/assets/121215739/c496d128-edb4-47b6-a9f9-d6ea3781f5f2)
 
 
 
