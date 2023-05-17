@@ -26,7 +26,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Sanjay Ragavendar M K (212222100045)</b></caption>
+<caption><b>SLOT TIME TABLE - Kothai K - 212222240051 </b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -130,6 +130,10 @@ Execute the program
 ## server output:
 
 ![server_output_timetable](https://github.com/KothaiKumar/timetable/assets/121215739/482e6053-e5c4-42ec-8982-d8be81d66222)
+
+## Client output:
+![timetable2](https://github.com/KothaiKumar/timetable/assets/121215739/c496d128-edb4-47b6-a9f9-d6ea3781f5f2)
+
 
 
 
