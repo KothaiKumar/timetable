@@ -128,12 +128,11 @@ Execute the program
 
 ### OUPUT
 ## server output:
+![serveroutput](https://github.com/KothaiKumar/timetable/assets/121215739/909b8785-82af-44bd-ac0a-e2e0a1e334eb)
 
-![server_output_timetable](https://github.com/KothaiKumar/timetable/assets/121215739/482e6053-e5c4-42ec-8982-d8be81d66222)
 
 ## Client output:
-
-
+![clientoutput](https://github.com/KothaiKumar/timetable/assets/121215739/60fd6189-7d9c-4c1f-b949-1348a4505d55)
 
 
 ## Result:
